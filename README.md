@@ -4,10 +4,7 @@ A synchrotron is a type of particle accelerator useful for many types of advance
 
 The **Bloch beamline** was (in 2018) a newly developed beamline on the MAX IV synchrotron in Lund, Sweden. In this repository, I develiped the simulation for this beamline, as part of my bachelor project. Due to the intractability of particle physics, Monte Carlo simulations were used. In order to simulate different parts of the synchrotron, the McXtrace program was used, enableling the simulation using Ansi C language. 
 
-## Content
-- Report
-- Motivation
-- Analysis
+
 
 ## Report.
 
